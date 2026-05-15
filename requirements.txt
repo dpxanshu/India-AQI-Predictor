@@ -1,6 +1,5 @@
 streamlit
 pandas
-pickle-mixin
 plotly
 requests
 numpy
